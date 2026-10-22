@@ -12,7 +12,7 @@ knowledge_base: [
 ```
 #
 
-- 🌱 As of my blog is available at [https://medium.com/@itsburakavcilar](https://medium.com/@itsburakavcilar)
+- 🌱 As of my blog is available at [https://medium.com/@burakavcilarr](https://medium.com/@burakavcilarr)
 
 
 
