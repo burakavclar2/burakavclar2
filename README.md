@@ -6,7 +6,7 @@ const me = {
 role: "Microservices Architect",
 code: ["Spring Boot", "Apache Kafka", "Python", "Node.js"],
 knowledge_base: [
-"Software Engineering",
+"Distributed Systems",
   ]
 }
 ```
